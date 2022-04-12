@@ -1,11 +1,12 @@
 
-
+// Linear Growth Example
 function exampleLinear(n) {
     for (var i=0; i<n; i++)     {
         console.log(i);
     }
 }
 
+// Quadratic Example
 function exampleQuadratic(n) {
     for (var i = 0; i < n; i++) {
         console.log(i)
@@ -15,6 +16,7 @@ function exampleQuadratic(n) {
     }
 }
 
+// Linear cubic quadratic
 function exampleCubic(n) {
     for (var i = 0; i < n; i++) {
         console.log(i);

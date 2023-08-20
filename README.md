@@ -1,19 +1,11 @@
-## BigO Notation
-### -  Space and Time Complexity
+<div align="center"
+  
+`Currently working on them`
 
-A repository to explain Big O-Notation in many difficulty levels
+</div>
 
-Currently, working on this project.
+<div align="center">
 
-## Language used:
-**Note**
-1. Javascript
+<img src="https://media3.giphy.com/media/3o7btQ0NH6Kl8CxCfK/giphy.gif?cid=6c09b952kxfahmbc08l3zwp7bzufvm5txm3xb4hdyw2urovm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 
----
-## Updates
-
-**Version**
-
-Currently, working on the project.
-
----
+</div>
